@@ -16,13 +16,13 @@ Modern e-commerce UI built with React, TypeScript, and Vite.
 
 ### Screenshots
 
-![Home Page](./FrontEnd/public/screenshots/Screenshot%202025-11-15%20at%208.56.23%20PM.png)
+![Home Page](./FrontEnd/public/screenshots/home.png)
 *Amazon-style homepage with hero banner and navigation*
 
-![Product Detail](./FrontEnd/public/screenshots/Screenshot%202025-11-15%20at%208.56.51%20PM.png)
+![Product Detail](./FrontEnd/public/screenshots/product.png)
 *Product page with ratings, pricing, and cart functionality*
 
-![Shopping Cart](./FrontEnd/public/screenshots/Screenshot%202025-11-15%20at%208.57.09%20PM.png)
+![Shopping Cart](./FrontEnd/public/screenshots/cart.png)
 *Shopping cart with order summary and checkout*
 
 ### Features

@@ -5,15 +5,15 @@ A modern e-commerce application built with React, TypeScript, and Vite.
 ## Screenshots
 
 ### Home Page
-![Home Page](./public/screenshots/Screenshot%202025-11-15%20at%208.56.23%20PM.png)
+![Home Page](./public/screenshots/home.png)
 *Amazon-style homepage with hero banner, navigation menu, and featured products section*
 
 ### Product Detail Page
-![Product Detail Page](./public/screenshots/Screenshot%202025-11-15%20at%208.56.51%20PM.png)
+![Product Detail Page](./public/screenshots/product.png)
 *Product page showing Wireless Bluetooth Headphones with ratings, pricing, features, and add to cart functionality*
 
 ### Shopping Cart
-![Shopping Cart](./public/screenshots/Screenshot%202025-11-15%20at%208.57.09%20PM.png)
+![Shopping Cart](./public/screenshots/cart.png)
 *Shopping cart with order summary, quantity controls, and checkout options*
 
 ## Recent Updates
