@@ -4,13 +4,28 @@ A modern e-commerce application built with React, TypeScript, and Vite.
 
 ## Screenshots
 
+### Home Page
+![Home Page](./public/screenshots/Screenshot%202025-11-15%20at%208.56.23%20PM.png)
+*Amazon-style homepage with hero banner, navigation menu, and featured products section*
+
 ### Product Detail Page
-![Product Detail Page](./public/screenshots/product-detail.png)
+![Product Detail Page](./public/screenshots/Screenshot%202025-11-15%20at%208.56.51%20PM.png)
 *Product page showing Wireless Bluetooth Headphones with ratings, pricing, features, and add to cart functionality*
 
 ### Shopping Cart
-![Shopping Cart](./public/screenshots/shopping-cart.png)
+![Shopping Cart](./public/screenshots/Screenshot%202025-11-15%20at%208.57.09%20PM.png)
 *Shopping cart with order summary, quantity controls, and checkout options*
+
+## Recent Updates
+
+### ✅ Completed Tasks
+- **Removed all Lovable branding**: Cleaned up dependencies, meta tags, and replaced favicon with custom Amazon-style icon
+- **Added comprehensive README**: Documented features, tech stack, setup instructions, and project structure
+- **Updated Vite configuration**: Removed problematic `lovable-tagger` plugin, now using only `@vitejs/plugin-react-swc`
+- **Custom favicon**: Created both SVG and PNG favicons with Amazon branding (orange #FF9900, dark #232F3E)
+- **Screenshots**: Added application screenshots showing homepage, product detail, and shopping cart pages
+- **Clean dependency stack**: Project now uses only open-source dependencies
+- **Successfully deployed**: Frontend running on Vite dev server at http://localhost:8080
 
 ## Preview
 
