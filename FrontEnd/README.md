@@ -2,6 +2,16 @@
 
 A modern e-commerce application built with React, TypeScript, and Vite.
 
+## Screenshots
+
+### Product Detail Page
+![Product Detail Page](./public/screenshots/product-detail.png)
+*Product page showing Wireless Bluetooth Headphones with ratings, pricing, features, and add to cart functionality*
+
+### Shopping Cart
+![Shopping Cart](./public/screenshots/shopping-cart.png)
+*Shopping cart with order summary, quantity controls, and checkout options*
+
 ## Preview
 
 The application features:
